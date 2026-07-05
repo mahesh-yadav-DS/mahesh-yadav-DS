@@ -28,4 +28,3 @@ Helped surface fraud patterns in claims data that fed into a 25% drop in fraudul
 
 📌 Pinned repos below are focused on Power BI / SQL / data modeling — the stack I actually use professionally. A couple of older repos are early exploratory ML/Python work from when I was first getting into data.
 
-📫 Reach me on LinkedIn
